@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamsajal
+- 👋 Hi, I’m Sajal Basak
 - 👀 I’m interested in Web and Mobile application development.
 - 🌱 I’m currently working on Flutter
 - 💞️ I’m looking to collaborate on mobile application development.
