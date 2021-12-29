@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamsajal
 - 👀 I’m interested in Web and Mobile application development.
-- 🌱 I’m currently learning ReactJS and Node.js
-- 💞️ I’m looking to collaborate on full stack web development.
+- 🌱 I’m currently working on Flutter
+- 💞️ I’m looking to collaborate on mobile application development.
 - 📫 How to reach me: (email me!)
 
 <!---
